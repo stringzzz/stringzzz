@@ -18,4 +18,4 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 - Contact info:
  Please send any questions, comments, or critiques about my software to the email below:
  groovemasterfunk4545@gmail.com
- Constructive criticism is greatly appreciated!
+- Constructive criticism is greatly appreciated!
