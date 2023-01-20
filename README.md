@@ -14,3 +14,8 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
  I no doubt have a lot more to learn, but coding in either of those langauges does feel comfortable to me.
 
 - My ultimate goal with my degree is to combine all of my passions into one area of research and development, mostly based on cryptology.
+
+- Contact info:
+ Please send any questions, comments, or critiques about my software to the email below:
+ groovemasterfunk4545@gmail.com
+ Constructive criticism is greatly appreciated!
