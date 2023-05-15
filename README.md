@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @stringzzz
+- 👋 Hi, I’m @stringzzz 
+- Fictional (For Now) Software Company: Ghostwarez Co.
 - My main interests involving coding revolve around artificial intelligence, mathematics, and security. 
 I would someday like to combine A.I. with cryptology to further cryptanalysis and cryptographic algorithms.
 
