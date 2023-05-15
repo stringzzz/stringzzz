@@ -14,6 +14,7 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
  I no doubt have a lot more to learn, but coding in either of those langauges does feel comfortable to me.
  
 - Recently decided to switch gears a bit and learn some web development skills, I think it will be useful for what I want to get into.
+- So far, I've dabbled a bit in HTML, CSS, and JavaScript. Currently exploring PHP a bit, as well.
 
 - My ultimate goal with my degree is to combine all of my passions into one area of research and development, mostly based on cryptology.
 
