@@ -11,11 +11,15 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
  That being said, I recognize that we all have to start somewhere, and I've made a lot of progress since then.
 
 - I've had a slow and rocky start with my formal schooling, but I finally got on the right track and now I am pursuing
- a degree in Computer Science. I've had some classes on C++, and a lot of time learning Python on my own.
- I no doubt have a lot more to learn, but coding in either of those langauges does feel comfortable to me.
- 
-- Recently decided to switch gears a bit and learn some web development skills, I think it will be useful for what I want to get into.
-- So far, I've dabbled a bit in HTML, CSS, and JavaScript. Currently exploring PHP a bit, as well.
+ a degree in Computer Science.
+
+-The languages I've worked most with are:
+x86 Assembly
+C
+C++
+Python
+HTML/CSS/JavaScript
+Some PHP
 
 - My ultimate goal with my degree is to combine all of my passions into one area of research and development, mostly based on cryptology.
 
