@@ -12,7 +12,9 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 
 - I've had a slow and rocky start with my formal schooling, but I finally got on the right track and now I am pursuing
  a degree in Computer Science.
+
 =======================================================================================================================================
+
 ---The languages I've worked most with are:
 - x86 Assembly
 - C
@@ -20,9 +22,13 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 - Python
 - HTML/CSS/JavaScript
 - Some PHP
+- 
 =======================================================================================================================================
+
 - My ultimate goal with my degree is to combine all of my passions into one area of research and development, mostly based on cryptology.
+- 
 =======================================================================================================================================
+
 - Contact info:
  Please send any questions, comments, or critiques about my software to the email below:
  groovemasterfunk4545@gmail.com
