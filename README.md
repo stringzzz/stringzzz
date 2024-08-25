@@ -22,11 +22,11 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 - Python
 - HTML/CSS/JavaScript
 - Some PHP
-- 
+
 =======================================================================================================================================
 
 - My ultimate goal with my degree is to combine all of my passions into one area of research and development, mostly based on cryptology.
-- 
+  
 =======================================================================================================================================
 
 - Contact info:
