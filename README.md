@@ -10,8 +10,10 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
  I can definitely look back on my early programs, even some only from a few years back, and feel embarassed over their quality.
  That being said, I recognize that we all have to start somewhere, and I've made a lot of progress since then.
 
-- I've had a slow and rocky start with my formal schooling, but I finally got on the right track and now I am pursuing
- a degree in Computer Science.
+- Finished at community college to earn my Associate's Degree in Computer Science, waiting for it to be finalized when I have
+  my graduation in May and receive my actual degree.
+
+- Next step is moving forward into the University, onward!
 
 =======================================================================================================================================
 
