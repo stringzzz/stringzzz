@@ -10,8 +10,7 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
  I can definitely look back on my early programs, even some only from a few years back, and feel embarassed over their quality.
  That being said, I recognize that we all have to start somewhere, and I've made a lot of progress since then.
 
-- Finished at community college to earn my Associate's Degree in Computer Science, waiting for it to be finalized when I have
-  my graduation in May and receive my actual degree.
+- Finished at community college and now have an Associate's degree in Cmputer Science.
 
 - Next step is moving forward into the University, onward!
 
@@ -24,6 +23,8 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 - Python
 - HTML/CSS/JavaScript
 - Some PHP
+
+--- I prefer to use C++ for anything where speed performance is crucial, and Python for just about anything else.
 
 =======================================================================================================================================
 
