@@ -10,7 +10,7 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
  I can definitely look back on my early programs, even some only from a few years back, and feel embarassed over their quality.
  That being said, I recognize that we all have to start somewhere, and I've made a lot of progress since then.
 
-- Finished at community college and now have an Associate's degree in Cmputer Science.
+- Finished at community college and now have an Associate's degree in Computer Science.
 
 - Next step is moving forward into the University, onward!
 
