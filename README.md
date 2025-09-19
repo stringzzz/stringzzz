@@ -22,8 +22,9 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 - C++
 - Python
 - HTML/CSS/JavaScript
+- SQL
 - Some PHP
-
+  
 --- I prefer to use C++ for anything where speed performance is crucial, and Python for just about anything else.
 
 =======================================================================================================================================
