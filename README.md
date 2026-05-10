@@ -12,7 +12,8 @@ I would someday like to combine A.I. with cryptology to further cryptanalysis an
 
 - Finished at community college and now have an Associate's degree in Computer Science.
 
-- Next step is moving forward into the University, onward!
+- I got news that I got accepted into the University! Of course, it won't really feel real until I actually step foot into my first class, but I am excited.
+  Now my goal is to get a Bachelor's degree in Computer Science, with a focus on AI. My dream job would be doing research involving AI.
 
 =======================================================================================================================================
 
