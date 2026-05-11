@@ -4,7 +4,7 @@
 
 
 - My history with AI started with writing a terrible chatbot in JavaScript named 'Scrippie Bot'.
- It was just a series of if statements, it had no way to learn anything new except for me hard coding it into their.
+ It was just a series of if statements, it had no way to learn anything new except for me hard coding it into there.
  Later on I got into the Perl language, and wrote an overly complicated chatbot named '$ophia'.
  Her code was a massive mess, since I didn't really know any better at the time, but it did all technically work.
  Years later I ended up just taking one of the simplest parts out of the code and building another chatbot based off of that (MARA: Memorize And Respond Automator).
