@@ -22,7 +22,7 @@
 
 - Finished at community college and now have an Associate's degree in Computer Science.
 
-- I got news that I got accepted into the University! Of course, it won't really feel real until I actually step foot into my first class, but I am excited.
+- I got into the University and started classes there, it has mostly felt like quite a mess so far.
   Now my goal is to get a Bachelor's degree in Computer Science, with a focus on AI. My dream job would be doing research involving AI.
   And of course I want to make CHELSEA even better during my whole time at school.
   I have many ideas that I feel could be interesting, and even if I only work on her a little at a time, she will improve.
